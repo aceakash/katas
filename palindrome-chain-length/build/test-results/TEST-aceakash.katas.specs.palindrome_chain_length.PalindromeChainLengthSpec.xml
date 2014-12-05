@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" tests="10" skipped="0" failures="1" errors="0" timestamp="2014-12-05T16:44:21" hostname="MML215.local" time="0.179">
+  <properties/>
+  <testcase name="number of steps is 0 for an existing palindrome[0]" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.085"/>
+  <testcase name="number of steps is 0 for an existing palindrome[1]" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.001"/>
+  <testcase name="number of steps is 0 for an existing palindrome[2]" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.0"/>
+  <testcase name="number of steps is 0 for an existing palindrome[3]" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.0"/>
+  <testcase name="number of steps is 0 for an existing palindrome[4]" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.0"/>
+  <testcase name="number of steps is 0 for an existing palindrome[5]" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.0"/>
+  <testcase name="number of steps is 0 for an existing palindrome[6]" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.001"/>
+  <testcase name="number of steps is 0 for an existing palindrome[7]" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.0"/>
+  <testcase name="number of steps is 0 for an existing palindrome[8]" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.0"/>
+  <testcase name="number of steps is #steps for #input" classname="aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec" time="0.09">
+    <failure message="Condition not satisfied:&#10;&#10;PalindromeChainLength.stepsFor(input) == steps&#10;                      |        |      |  |&#10;                      8        9699   |  80&#10;                                      false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+PalindromeChainLength.stepsFor(input) == steps
+                      |        |      |  |
+                      8        9699   |  80
+                                      false
+
+	at aceakash.katas.specs.palindrome_chain_length.PalindromeChainLengthSpec.number of steps is #steps for #input(PalindromChainLengthSpec.groovy:30)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

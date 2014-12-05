@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="aceakash.katas.palindrome_chain_length.PalindromeChainLengthSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2014-12-05T15:32:26" hostname="MML215.local" time="0.046">
+  <properties/>
+  <testcase name="number of steps is 0 for an existing palindrome" classname="aceakash.katas.palindrome_chain_length.PalindromeChainLengthSpec" time="0.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
